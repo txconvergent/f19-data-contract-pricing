@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sportune
+          Sportune - the website
         </a>
       </header>
     </div>
