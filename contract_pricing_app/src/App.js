@@ -12,13 +12,9 @@ function App() {
 
               <div class="inner">
                 <header>
-                  <h1><a href="index.html" id="logo">Helios</a></h1>
-                  <hr />
-                  <p>Another fine freebie by HTML5 UP</p>
+                  <h1><a href="left-sidebar.html" id="logo">Sportune</a></h1>
+                  <p><b>insert slogan here</b></p>
                 </header>
-                <footer>
-                  <a href="#banner" class="button circled scrolly">Start</a>
-                </footer>
               </div>
 
 
