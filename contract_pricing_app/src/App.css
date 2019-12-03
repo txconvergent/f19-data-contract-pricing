@@ -23,10 +23,9 @@
 
 .logoimage {
   width: 100%;
-  height: 100%;
 }
 
 .logoimagebox {
-  width: 100vw;
-  height: 100vh;
+  width: 97.5vw;
+  height: 40vh;
 }
